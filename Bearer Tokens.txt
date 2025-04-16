@@ -1,0 +1,30 @@
+Bearer Tokens
+
+Karthik53967 == AAAAAAAAAAAAAAAAAAAAAIPJzwEAAAAAeBpS522F0%2BVdqmX3JV%2Bl%2FUKxWDA%3D7g00SpMy0BymWVWD17WH2qr0VUww8CkrYI4UFDd2GpmXXUlHEy
+post url === https://x.com/Karthik53967/status/1900910111440486687
+
+Jhansi94934 == AAAAAAAAAAAAAAAAAAAAAI%2FJzwEAAAAA90Oqly218UOVVuPaXLuCVfccdL8%3Dyyq8keHtip0zBgnvSnCpHaQY1jhZFgwujEJ4MRtWEpYyIM31jI
+
+PonaMeghana99 === AAAAAAAAAAAAAAAAAAAAAO3JzwEAAAAARcIO2riJbzyuRPGxaaYW3yjsOvE%3D2B3tn4tkmxYrvFQqTytdrxJxDdwJBzjJWC6qgrYUyV4pf3Gfve
+post url ===  https://x.com/PonaMeghana99/status/1900906820337807515
+
+Meghana == AAAAAAAAAAAAAAAAAAAAAPvJzwEAAAAAC1j9RDbSsOG75qrLwNkirivHAgc%3DjK4eKiNoCFfk9PAb0qlRv6q0k9LutZZrfpd08AE4o7cTTTSi5F
+post url === https://x.com/PonnaMegha78575/status/1900913992274731031
+
+
+
+Youtube urls
+https://www.youtube.com/watch?v=68aej2qmCtw
+
+https://www.youtube.com/watch?v=hkb8oCMrxDg&rco=1
+
+https://www.youtube.com/watch?v=kfVsfOSbJY0
+
+https://www.youtube.com/watch?v=-tK9SIjEuAs
+
+
+
+We have to change the path in model_service.py file
+model_path = r''
+model_path = r'D:\cyber_bulling33\cyber_bulling\ann_model.h5'
+vectorizer_path = r'D:\cyber_bulling33\cyber_bulling\tfidf_vectorizer.pkl'
